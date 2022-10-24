@@ -1,6 +1,32 @@
 {
   "name": "@jrantunes/cra-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "A initial template to React projects using Create React App",
+  "homepage": "https://github.com/jrantunes/cra-template",
+  "contributors": [
+    "José antunes <joseantunes2001@gmail.com> (https://github.com/jrantunes)"
+  ],
+  "keywords": [
+    "react",
+    "reactjs",
+    "typescript",
+    "storybook",
+    "jest",
+    "react testing library",
+    "husky",
+    "plopjs",
+    "eslint",
+    "prettier",
+    "styled-components",
+    "lint-staged"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrantunes/cra-template"
+  },
+  "bugs": {
+    "url": "https://github.com/jrantunes/cra-template/issues"
+  },
   "main": "index.js",
   "license": "MIT"
 }
