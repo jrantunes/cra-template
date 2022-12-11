@@ -29,7 +29,7 @@
       "build-storybook": "build-storybook -s public"
     },
     "lint-staged": {
-      "src/**/*": [
+      "src/**/*.{ts,tsx,js}": [
         "yarn lint --fix",
         "yarn test --passWithNoTests --bail"
       ]
