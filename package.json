@@ -1,6 +1,6 @@
 {
   "name": "@jrantunes/cra-template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A initial template to React projects using Create React App",
   "homepage": "https://github.com/jrantunes/cra-template",
   "contributors": [
